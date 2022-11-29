@@ -1,0 +1,4 @@
+#Wed Feb 09 17:12:24 BRT 2022
+base.0=D\:\\OneDrive\\Projetos_de_programacao\\VS_Studio\\app Flutter\\racha_conta\\build\\app\\intermediates\\dex\\profile\\mergeDexProfile\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

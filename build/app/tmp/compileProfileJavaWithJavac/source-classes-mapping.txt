@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/racha_conta/BuildConfig.java
+ com.example.racha_conta.BuildConfig
